@@ -48,4 +48,4 @@ FIGMA UI/UX DESIGN:
 https://drive.google.com/file/d/1XvtDECWXDy9mHAPIRiGElFWq9TY-2rD3/view?usp=drivesdk
 
 SCREENSHOT:
-
+<img width="695" alt="EMENO DESIGN" src="https://user-images.githubusercontent.com/75906906/208286304-00f684f7-bb8b-4318-b8a5-9bd4f2fe7201.png">
